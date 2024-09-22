@@ -1,18 +1,3 @@
-# XWorm.V5.6-
-XWorm.V5.6 source code+compiler
-I will not be held responsible for your actions published for educational purposes. 
-My server discord : https://discord.gg/eaBWM3hK 
-XWorm V5.6 Cracked is a remote access trojan (RAT) that is sold as a malware-as-a-service (MaaS). It is a modular malware, meaning that it can be customized to perform a variety of malicious tasks, such as:
-
-    Stealing sensitive data, such as passwords, credit card numbers, and cryptocurrency wallets
-    Launching distributed denial-of-service (DDoS) attacks
-    Deploying ransomware
-    Hijacking MetaMask and Telegram accounts
-    Tracking user activity
-
-XWorm is typically delivered to victims’ computers through phishing emails or malicious attachments. Once installed, it will establish persistence on the system and contact its command and control (C2) server. The C2 server can then be used by the attacker to remotely control the infected computer and execute malicious commands.
-
-Tools:Icon Changer – Multi Binder [Icon – Assembly] | Fud Downloader [HTA-VBS-JS-WSF] – XHVNC – BlockClients
 
 Features:
 ⭐️ Builder
