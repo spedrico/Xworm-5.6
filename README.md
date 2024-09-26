@@ -1,4 +1,3 @@
-⚠️MAKE SURE YOU RUN THE .NET INSTALL⚠️
 
 Features:
 
