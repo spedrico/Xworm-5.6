@@ -1,5 +1,4 @@
-Password: FreeRico
-
+🔑PASSWORD: FreeRico🔑
 
 Features:
 
